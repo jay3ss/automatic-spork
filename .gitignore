@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# ignore vscode settings
+.vscode/
+
+# ignore environment variables
+.envrc
+
+# ignore database
+*.db
