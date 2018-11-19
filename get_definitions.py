@@ -3,6 +3,7 @@ this script
 """
 import argparse
 import logging
+import logging.handlers
 
 import config
 import dictionary
